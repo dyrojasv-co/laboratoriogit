@@ -1,0 +1,5 @@
+Empresa 1: Año 2023 = 11000, Año 2024 = 12900, Año 2025 = 12000, Total 3 años = 35900
+Empresa 2: Año 2023 = 5100, Año 2024 = 5600, Año 2025 = 9400, Total 3 años = 20100
+Empresa 3: Año 2023 = 5200, Año 2024 = 6600, Año 2025 = 10300, Total 3 años = 22100
+Empresa 4: Año 2023 = 5400, Año 2024 = 8800, Año 2025 = 10800, Total 3 años = 25000
+Empresa 5: Año 2023 = 4500, Año 2024 = 7500, Año 2025 = 9900, Total 3 años = 21900
